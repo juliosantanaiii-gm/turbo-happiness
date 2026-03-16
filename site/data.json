@@ -18710,6 +18710,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17720548378",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 8,
+      "name": "Hardest run of the block \ud83d\ude35\u200d\ud83d\udcab",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17734214445",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35422,6 +35431,15 @@
           "distance": 12902.9,
           "elevation_gain": 91.0,
           "moving_time": 3181.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17734214445"
+          ],
+          "count": 1,
+          "distance": 34361.3,
+          "elevation_gain": 0.0,
+          "moving_time": 9256.0
         }
       },
       "Walk": {
@@ -35493,7 +35511,7 @@
       }
     }
   },
-  "generated_at": "2026-03-15T15:55:18.129117+00:00",
+  "generated_at": "2026-03-16T18:10:57.697309+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

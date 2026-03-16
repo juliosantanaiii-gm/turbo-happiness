@@ -27025,5 +27025,18 @@
     "start_date_local": "2026-03-14T08:09:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 34361.3,
+    "elevation_gain": 0.0,
+    "id": "17734214445",
+    "moving_time": 9256.0,
+    "name": "Hardest run of the block \ud83d\ude35\u200d\ud83d\udcab",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T08:05:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
