@@ -18719,6 +18719,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17734214445",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 5,
+      "name": "Hm",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17753277029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35440,6 +35449,15 @@
           "distance": 34361.3,
           "elevation_gain": 0.0,
           "moving_time": 9256.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17753277029"
+          ],
+          "count": 1,
+          "distance": 16110.8,
+          "elevation_gain": 22.0,
+          "moving_time": 4265.0
         }
       },
       "Walk": {
@@ -35511,7 +35529,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T18:10:57.697309+00:00",
+  "generated_at": "2026-03-17T18:09:23.292250+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
