@@ -27051,5 +27051,18 @@
     "start_date_local": "2026-03-17T05:10:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 24162.3,
+    "elevation_gain": 430.0,
+    "id": "17767042375",
+    "moving_time": 7147.0,
+    "name": "Windy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T06:13:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

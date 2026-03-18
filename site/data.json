@@ -18728,6 +18728,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17753277029",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 6,
+      "name": "Windy",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17767042375",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35458,6 +35467,15 @@
           "distance": 16110.8,
           "elevation_gain": 22.0,
           "moving_time": 4265.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17767042375"
+          ],
+          "count": 1,
+          "distance": 24162.3,
+          "elevation_gain": 430.0,
+          "moving_time": 7147.0
         }
       },
       "Walk": {
@@ -35529,7 +35547,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T18:09:23.292250+00:00",
+  "generated_at": "2026-03-18T18:11:46.973890+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
