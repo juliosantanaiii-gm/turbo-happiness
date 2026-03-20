@@ -27077,5 +27077,18 @@
     "start_date_local": "2026-03-19T05:46:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 14579.3,
+    "elevation_gain": 20.0,
+    "id": "17790356188",
+    "moving_time": 3953.0,
+    "name": "Monaghetti fartlek",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T05:16:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
