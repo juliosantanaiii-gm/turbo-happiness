@@ -27090,5 +27090,31 @@
     "start_date_local": "2026-03-20T05:16:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 6782.0,
+    "elevation_gain": 66.0,
+    "id": "17796388407",
+    "moving_time": 2064.0,
+    "name": "First day of summer",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T16:14:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 13366.3,
+    "elevation_gain": 108.0,
+    "id": "17804477552",
+    "moving_time": 3564.0,
+    "name": "Citius Saturday!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T08:09:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
