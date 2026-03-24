@@ -27129,5 +27129,18 @@
     "start_date_local": "2026-03-22T06:34:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 17804.6,
+    "elevation_gain": 24.0,
+    "id": "17839670697",
+    "moving_time": 4564.0,
+    "name": "Believe",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T05:05:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
