@@ -18791,6 +18791,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17839670697",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 12,
+      "name": "Trees full of sneezes",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17844831542",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 4,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17851600175",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 4,
+      "name": "March Madness",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17852903636",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35570,12 +35597,23 @@
         },
         "2026-03-24": {
           "activity_ids": [
-            "17839670697"
+            "17839670697",
+            "17844831542"
           ],
-          "count": 1,
-          "distance": 17804.6,
-          "elevation_gain": 24.0,
-          "moving_time": 4564.0
+          "count": 2,
+          "distance": 24579.399999999998,
+          "elevation_gain": 73.0,
+          "moving_time": 6576.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17851600175",
+            "17852903636"
+          ],
+          "count": 2,
+          "distance": 24219.9,
+          "elevation_gain": 300.0,
+          "moving_time": 6655.0
         }
       },
       "Walk": {
@@ -35647,7 +35685,7 @@
       }
     }
   },
-  "generated_at": "2026-03-24T18:08:45.847639+00:00",
+  "generated_at": "2026-03-25T18:11:03.192046+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
