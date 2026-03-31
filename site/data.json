@@ -18872,6 +18872,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17902820421",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 5,
+      "name": "12x1km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17924231190",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35705,6 +35714,15 @@
           "distance": 34703.3,
           "elevation_gain": 268.0,
           "moving_time": 9238.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17924231190"
+          ],
+          "count": 1,
+          "distance": 17866.0,
+          "elevation_gain": 49.0,
+          "moving_time": 4465.0
         }
       },
       "Walk": {
@@ -35785,7 +35803,7 @@
       }
     }
   },
-  "generated_at": "2026-03-30T18:06:24.535518+00:00",
+  "generated_at": "2026-03-31T18:06:33.275813+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
