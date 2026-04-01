@@ -27272,5 +27272,31 @@
     "start_date_local": "2026-03-31T05:04:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 6947.1,
+    "elevation_gain": 53.0,
+    "id": "17929335771",
+    "moving_time": 2015.0,
+    "name": "Lunchtime double",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T12:45:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 24186.1,
+    "elevation_gain": 240.0,
+    "id": "17937219930",
+    "moving_time": 6753.0,
+    "name": "Blood on the tracks",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T04:48:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

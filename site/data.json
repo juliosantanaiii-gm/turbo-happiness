@@ -18881,6 +18881,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17924231190",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 12,
+      "name": "Lunchtime double",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17929335771",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 4,
+      "name": "Blood on the tracks",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17937219930",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35717,12 +35735,22 @@
         },
         "2026-03-31": {
           "activity_ids": [
-            "17924231190"
+            "17924231190",
+            "17929335771"
+          ],
+          "count": 2,
+          "distance": 24813.1,
+          "elevation_gain": 102.0,
+          "moving_time": 6480.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17937219930"
           ],
           "count": 1,
-          "distance": 17866.0,
-          "elevation_gain": 49.0,
-          "moving_time": 4465.0
+          "distance": 24186.1,
+          "elevation_gain": 240.0,
+          "moving_time": 6753.0
         }
       },
       "Walk": {
@@ -35803,7 +35831,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T18:06:33.275813+00:00",
+  "generated_at": "2026-04-01T17:39:37.631716+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
