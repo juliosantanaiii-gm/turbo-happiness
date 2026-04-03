@@ -18899,6 +18899,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17937219930",
       "year": 2026
+    },
+    {
+      "date": "2026-04-02",
+      "hour": 11,
+      "name": "If you are missing a cow...",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17953551647",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 5,
+      "name": "Friday fartlek",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17962163066",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35751,6 +35769,24 @@
           "distance": 24186.1,
           "elevation_gain": 240.0,
           "moving_time": 6753.0
+        },
+        "2026-04-02": {
+          "activity_ids": [
+            "17953551647"
+          ],
+          "count": 1,
+          "distance": 12139.8,
+          "elevation_gain": 128.0,
+          "moving_time": 3624.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17962163066"
+          ],
+          "count": 1,
+          "distance": 21176.5,
+          "elevation_gain": 56.0,
+          "moving_time": 5316.0
         }
       },
       "Walk": {
@@ -35831,7 +35867,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T17:39:09.915867+00:00",
+  "generated_at": "2026-04-03T17:01:11.859569+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

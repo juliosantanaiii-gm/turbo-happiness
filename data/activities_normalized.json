@@ -27298,5 +27298,31 @@
     "start_date_local": "2026-04-01T04:48:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 12139.8,
+    "elevation_gain": 128.0,
+    "id": "17953551647",
+    "moving_time": 3624.0,
+    "name": "If you are missing a cow...",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-02T11:38:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 21176.5,
+    "elevation_gain": 56.0,
+    "id": "17962163066",
+    "moving_time": 5316.0,
+    "name": "Friday fartlek",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T05:33:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
