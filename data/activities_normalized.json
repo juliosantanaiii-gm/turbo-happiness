@@ -27324,5 +27324,31 @@
     "start_date_local": "2026-04-03T05:33:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 6833.7,
+    "elevation_gain": 84.0,
+    "id": "17967439205",
+    "moving_time": 2113.0,
+    "name": "Blustery double",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T15:17:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 13045.2,
+    "elevation_gain": 65.0,
+    "id": "17976586658",
+    "moving_time": 3410.0,
+    "name": "Saturday standard",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T08:11:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
