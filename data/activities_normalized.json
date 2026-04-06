@@ -27350,5 +27350,18 @@
     "start_date_local": "2026-04-04T08:11:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 32212.5,
+    "elevation_gain": 51.0,
+    "id": "17991406411",
+    "moving_time": 8159.0,
+    "name": "Easter progression \ud83d\udc30\ud83e\udd5a",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T10:27:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
