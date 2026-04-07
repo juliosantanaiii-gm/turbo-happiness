@@ -27363,5 +27363,18 @@
     "start_date_local": "2026-04-05T10:27:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 13708.5,
+    "elevation_gain": 25.0,
+    "id": "18012287747",
+    "moving_time": 3625.0,
+    "name": "Masonry",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T05:17:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
