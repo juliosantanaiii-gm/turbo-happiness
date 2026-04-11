@@ -27428,5 +27428,31 @@
     "start_date_local": "2026-04-10T05:33:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 6795.5,
+    "elevation_gain": 53.0,
+    "id": "18057860911",
+    "moving_time": 2080.0,
+    "name": "Lunchtime double",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T13:47:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 13071.4,
+    "elevation_gain": 91.0,
+    "id": "18068028817",
+    "moving_time": 3735.0,
+    "name": "Citius Saturday!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T08:09:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

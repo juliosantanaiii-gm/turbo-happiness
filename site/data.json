@@ -18989,6 +18989,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18053587947",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 13,
+      "name": "Lunchtime double",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18057860911",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 8,
+      "name": "Citius Saturday!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18068028817",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35909,12 +35927,22 @@
         },
         "2026-04-10": {
           "activity_ids": [
-            "18053587947"
+            "18053587947",
+            "18057860911"
+          ],
+          "count": 2,
+          "distance": 29344.1,
+          "elevation_gain": 95.0,
+          "moving_time": 7721.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18068028817"
           ],
           "count": 1,
-          "distance": 22548.6,
-          "elevation_gain": 42.0,
-          "moving_time": 5641.0
+          "distance": 13071.4,
+          "elevation_gain": 91.0,
+          "moving_time": 3735.0
         }
       },
       "Walk": {
@@ -35995,7 +36023,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T17:38:11.541557+00:00",
+  "generated_at": "2026-04-11T16:02:11.990814+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
