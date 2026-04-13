@@ -19011,7 +19011,7 @@
     {
       "date": "2026-04-12",
       "hour": 6,
-      "name": "Morning Run",
+      "name": "Donut Dash",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18082735092",
@@ -36041,7 +36041,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T17:04:26.742124+00:00",
+  "generated_at": "2026-04-13T18:54:42.774645+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
