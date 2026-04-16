@@ -27493,5 +27493,18 @@
     "start_date_local": "2026-04-14T06:08:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 16123.3,
+    "elevation_gain": 81.0,
+    "id": "18123560343",
+    "moving_time": 4168.0,
+    "name": "Michigan",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T12:49:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
