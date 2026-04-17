@@ -27506,5 +27506,31 @@
     "start_date_local": "2026-04-15T12:49:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 12499.9,
+    "elevation_gain": 140.0,
+    "id": "18135543472",
+    "moving_time": 3592.0,
+    "name": "Peaceful easy feeling",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T11:10:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 11297.8,
+    "elevation_gain": 119.0,
+    "id": "18144432431",
+    "moving_time": 2876.0,
+    "name": "Crash (out) taper",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T05:47:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
