@@ -27532,5 +27532,18 @@
     "start_date_local": "2026-04-17T05:47:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 12726.1,
+    "elevation_gain": 119.0,
+    "id": "18160167459",
+    "moving_time": 3532.0,
+    "name": "Citius Saturday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T08:08:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
