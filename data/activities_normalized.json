@@ -27558,5 +27558,31 @@
     "start_date_local": "2026-04-19T08:24:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 3248.8,
+    "elevation_gain": 28.0,
+    "id": "18188129677",
+    "moving_time": 3102.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-20T11:58:43Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 9065.5,
+    "elevation_gain": 12.0,
+    "id": "18196790768",
+    "moving_time": 2289.0,
+    "name": "\ud83c\udfc1 Race Week \ud83c\udfc1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T05:44:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
