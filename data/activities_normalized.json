@@ -27597,5 +27597,18 @@
     "start_date_local": "2026-04-22T05:50:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 10563.0,
+    "elevation_gain": 50.0,
+    "id": "18230492214",
+    "moving_time": 2833.0,
+    "name": "Showtime",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T12:48:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
