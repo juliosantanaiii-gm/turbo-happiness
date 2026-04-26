@@ -27623,5 +27623,44 @@
     "start_date_local": "2026-04-24T10:00:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 4904.3,
+    "elevation_gain": 20.0,
+    "id": "18254122464",
+    "moving_time": 1605.0,
+    "name": "Citius Saturday Standard (Eugene edition)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T08:09:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18257328529",
+    "moving_time": 938.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-25T13:42:13Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18260800115",
+    "moving_time": 938.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-25T15:14:03Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

@@ -19124,6 +19124,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18241209896",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 8,
+      "name": "Citius Saturday Standard (Eugene edition)",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18254122464",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 13,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18257328529",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 15,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18260800115",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36159,6 +36186,15 @@
           "distance": 9750.0,
           "elevation_gain": 56.0,
           "moving_time": 2701.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18254122464"
+          ],
+          "count": 1,
+          "distance": 4904.3,
+          "elevation_gain": 20.0,
+          "moving_time": 1605.0
         }
       },
       "Walk": {
@@ -36254,10 +36290,22 @@
           "elevation_gain": 0.0,
           "moving_time": 1957.0
         }
+      },
+      "Workout": {
+        "2026-04-25": {
+          "activity_ids": [
+            "18257328529",
+            "18260800115"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1876.0
+        }
       }
     }
   },
-  "generated_at": "2026-04-25T15:36:19.325943+00:00",
+  "generated_at": "2026-04-26T15:38:13.334182+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
