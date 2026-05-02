@@ -27740,5 +27740,18 @@
     "start_date_local": "2026-05-01T06:37:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 13096.3,
+    "elevation_gain": 64.0,
+    "id": "18347916072",
+    "moving_time": 3549.0,
+    "name": "Citius!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T08:09:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

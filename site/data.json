@@ -19205,6 +19205,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18332839641",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 8,
+      "name": "Citius!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18347916072",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36295,6 +36304,15 @@
           "distance": 9687.2,
           "elevation_gain": 63.0,
           "moving_time": 2708.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18347916072"
+          ],
+          "count": 1,
+          "distance": 13096.3,
+          "elevation_gain": 64.0,
+          "moving_time": 3549.0
         }
       },
       "Walk": {
@@ -36405,7 +36423,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:52:52.100793+00:00",
+  "generated_at": "2026-05-02T15:41:25.416986+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
