@@ -27753,5 +27753,18 @@
     "start_date_local": "2026-05-02T08:09:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 10974.5,
+    "elevation_gain": 349.0,
+    "id": "18360933273",
+    "moving_time": 3378.0,
+    "name": "Palate cleanser",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T07:44:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
