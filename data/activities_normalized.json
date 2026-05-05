@@ -27779,5 +27779,31 @@
     "start_date_local": "2026-05-03T15:38:11Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 8106.6,
+    "elevation_gain": 68.0,
+    "id": "18374526002",
+    "moving_time": 2329.0,
+    "name": "Return to Rhythm",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-04T10:24:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 11303.9,
+    "elevation_gain": 113.0,
+    "id": "18384717060",
+    "moving_time": 3273.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T05:33:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
