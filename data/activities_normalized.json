@@ -27805,5 +27805,18 @@
     "start_date_local": "2026-05-05T05:33:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 6509.5,
+    "elevation_gain": 56.0,
+    "id": "18399050273",
+    "moving_time": 2097.0,
+    "name": "Fresh tracks",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T06:46:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
