@@ -19259,6 +19259,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18399050273",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 7,
+      "name": "Spring back",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18412688526",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36394,6 +36403,15 @@
           "distance": 6509.5,
           "elevation_gain": 56.0,
           "moving_time": 2097.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18412688526"
+          ],
+          "count": 1,
+          "distance": 12895.3,
+          "elevation_gain": 158.0,
+          "moving_time": 3596.0
         }
       },
       "Walk": {
@@ -36513,7 +36531,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T16:24:50.498260+00:00",
+  "generated_at": "2026-05-07T16:45:43.688808+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

@@ -27818,5 +27818,18 @@
     "start_date_local": "2026-05-06T06:46:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 12895.3,
+    "elevation_gain": 158.0,
+    "id": "18412688526",
+    "moving_time": 3596.0,
+    "name": "Spring back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T07:03:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
