@@ -27844,5 +27844,18 @@
     "start_date_local": "2026-05-08T06:38:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 17992.0,
+    "elevation_gain": 182.0,
+    "id": "18439611586",
+    "moving_time": 4957.0,
+    "name": "Citius premiles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T06:41:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
