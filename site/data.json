@@ -19286,6 +19286,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18439611586",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18444186302",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36540,6 +36549,15 @@
           "distance": 6483.4,
           "elevation_gain": 78.0,
           "moving_time": 6784.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18444186302"
+          ],
+          "count": 1,
+          "distance": 6525.4,
+          "elevation_gain": 80.0,
+          "moving_time": 6060.0
         }
       },
       "WeightTraining": {
@@ -36567,7 +36585,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:45:21.810942+00:00",
+  "generated_at": "2026-05-10T15:47:24.541790+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
