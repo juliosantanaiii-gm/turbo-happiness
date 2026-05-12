@@ -19304,6 +19304,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18455043376",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 12,
+      "name": "Race week (?!)",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18467835701",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 5,
+      "name": "Ease in",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18476469703",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36475,6 +36493,24 @@
           "distance": 12520.3,
           "elevation_gain": 92.0,
           "moving_time": 3259.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18467835701"
+          ],
+          "count": 1,
+          "distance": 11409.1,
+          "elevation_gain": 108.0,
+          "moving_time": 3167.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18476469703"
+          ],
+          "count": 1,
+          "distance": 14576.8,
+          "elevation_gain": 109.0,
+          "moving_time": 3929.0
         }
       },
       "Walk": {
@@ -36603,7 +36639,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:21:58.312336+00:00",
+  "generated_at": "2026-05-12T17:06:08.019056+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

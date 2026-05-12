@@ -27883,5 +27883,31 @@
     "start_date_local": "2026-05-10T09:30:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 11409.1,
+    "elevation_gain": 108.0,
+    "id": "18467835701",
+    "moving_time": 3167.0,
+    "name": "Race week (?!)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T12:10:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 14576.8,
+    "elevation_gain": 109.0,
+    "id": "18476469703",
+    "moving_time": 3929.0,
+    "name": "Ease in",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T05:28:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
