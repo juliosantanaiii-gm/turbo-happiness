@@ -27974,5 +27974,44 @@
     "start_date_local": "2026-05-16T07:41:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 3566.0,
+    "elevation_gain": 5.0,
+    "id": "18543986396",
+    "moving_time": 1164.0,
+    "name": "Warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T06:08:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 9536.3,
+    "elevation_gain": 85.0,
+    "id": "18543986467",
+    "moving_time": 2135.0,
+    "name": "Colfax Relay - Leg 3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T07:03:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 6467.5,
+    "elevation_gain": 12.0,
+    "id": "18543994756",
+    "moving_time": 1777.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T07:46:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
