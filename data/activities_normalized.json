@@ -28013,5 +28013,18 @@
     "start_date_local": "2026-05-17T07:46:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 12914.5,
+    "elevation_gain": 146.0,
+    "id": "18554000603",
+    "moving_time": 3892.0,
+    "name": "Race week (?!)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T05:14:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
