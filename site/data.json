@@ -19439,6 +19439,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18608508859",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 8,
+      "name": "\ud83d\udcc9 Shortius",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18622948301",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36721,6 +36730,15 @@
           "distance": 13726.5,
           "elevation_gain": 130.0,
           "moving_time": 4096.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18622948301"
+          ],
+          "count": 1,
+          "distance": 9065.6,
+          "elevation_gain": 30.0,
+          "moving_time": 2492.0
         }
       },
       "Walk": {
@@ -36849,7 +36867,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:05:01.524064+00:00",
+  "generated_at": "2026-05-23T15:59:07.966740+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
