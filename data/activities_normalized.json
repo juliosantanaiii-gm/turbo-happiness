@@ -28104,5 +28104,70 @@
     "start_date_local": "2026-05-24T07:12:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 1061.6,
+    "elevation_gain": 3.0,
+    "id": "18648404921",
+    "moving_time": 339.0,
+    "name": "First cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T07:48:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 2423.0,
+    "elevation_gain": 1.0,
+    "id": "18648404936",
+    "moving_time": 726.0,
+    "name": "Warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T05:56:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 10174.9,
+    "elevation_gain": 65.0,
+    "id": "18648405024",
+    "moving_time": 2268.0,
+    "name": "Ageless Wonder",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T06:45:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 3929.8,
+    "elevation_gain": 11.0,
+    "id": "18648817052",
+    "moving_time": 1254.0,
+    "name": "Another Cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T08:17:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 3591.2,
+    "elevation_gain": 9.0,
+    "id": "18650046113",
+    "moving_time": 3199.0,
+    "name": "Family lap",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-25T09:19:43Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
