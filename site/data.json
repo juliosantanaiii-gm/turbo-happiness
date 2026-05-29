@@ -19529,6 +19529,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18689124264",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "name": "Runners Roost Golden Run Club",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18696691893",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18702195068",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36862,12 +36880,22 @@
         },
         "2026-05-28": {
           "activity_ids": [
-            "18689124264"
+            "18689124264",
+            "18696691893"
+          ],
+          "count": 2,
+          "distance": 28597.7,
+          "elevation_gain": 306.0,
+          "moving_time": 7811.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18702195068"
           ],
           "count": 1,
-          "distance": 15670.2,
-          "elevation_gain": 172.0,
-          "moving_time": 4418.0
+          "distance": 12904.6,
+          "elevation_gain": 137.0,
+          "moving_time": 3664.0
         }
       },
       "Walk": {
@@ -37005,7 +37033,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T18:04:04.448462+00:00",
+  "generated_at": "2026-05-29T18:09:23.160357+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

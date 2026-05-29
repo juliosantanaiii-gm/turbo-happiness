@@ -28208,5 +28208,31 @@
     "start_date_local": "2026-05-28T06:13:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 12927.5,
+    "elevation_gain": 134.0,
+    "id": "18696691893",
+    "moving_time": 3393.0,
+    "name": "Runners Roost Golden Run Club",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T18:09:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 12904.6,
+    "elevation_gain": 137.0,
+    "id": "18702195068",
+    "moving_time": 3664.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T06:10:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
