@@ -19583,6 +19583,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18747963339",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 16,
+      "name": "Under new management",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18763611953",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 5,
+      "name": "Between Two Zooms",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18769670012",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36959,6 +36977,24 @@
           "distance": 8071.5,
           "elevation_gain": 59.0,
           "moving_time": 2472.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18763611953"
+          ],
+          "count": 1,
+          "distance": 16114.0,
+          "elevation_gain": 30.0,
+          "moving_time": 4522.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18769670012"
+          ],
+          "count": 1,
+          "distance": 12900.5,
+          "elevation_gain": 136.0,
+          "moving_time": 3789.0
         }
       },
       "Walk": {
@@ -37105,7 +37141,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:36:34.174061+00:00",
+  "generated_at": "2026-06-03T18:41:30.364911+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

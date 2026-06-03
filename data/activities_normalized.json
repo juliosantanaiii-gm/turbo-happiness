@@ -28286,5 +28286,31 @@
     "start_date_local": "2026-06-01T15:30:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 16114.0,
+    "elevation_gain": 30.0,
+    "id": "18763611953",
+    "moving_time": 4522.0,
+    "name": "Under new management",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T16:38:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 12900.5,
+    "elevation_gain": 136.0,
+    "id": "18769670012",
+    "moving_time": 3789.0,
+    "name": "Between Two Zooms",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T05:51:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
