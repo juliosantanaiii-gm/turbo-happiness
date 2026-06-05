@@ -28325,5 +28325,18 @@
     "start_date_local": "2026-06-04T05:31:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 9712.3,
+    "elevation_gain": 72.0,
+    "id": "18796375698",
+    "moving_time": 3101.0,
+    "name": "Gentle start",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T05:58:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
