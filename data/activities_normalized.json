@@ -28338,5 +28338,44 @@
     "start_date_local": "2026-06-05T05:58:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 12889.0,
+    "elevation_gain": 15.0,
+    "id": "18811322060",
+    "moving_time": 3503.0,
+    "name": "\ud83d\udeeb",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T07:17:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 661.5,
+    "elevation_gain": 1.0,
+    "id": "18816231612",
+    "moving_time": 161.0,
+    "name": "Flight got in late",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T19:07:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 20140.4,
+    "elevation_gain": 91.0,
+    "id": "18822386113",
+    "moving_time": 5569.0,
+    "name": "Perderse en Madrid \ud83c\uddea\ud83c\uddf8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T11:40:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

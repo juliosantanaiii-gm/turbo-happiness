@@ -19619,6 +19619,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18796375698",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 7,
+      "name": "\ud83d\udeeb",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18811322060",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 19,
+      "name": "Flight got in late",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18816231612",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 11,
+      "name": "Perderse en Madrid \ud83c\uddea\ud83c\uddf8",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18822386113",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37031,6 +37058,25 @@
           "distance": 9712.3,
           "elevation_gain": 72.0,
           "moving_time": 3101.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18811322060",
+            "18816231612"
+          ],
+          "count": 2,
+          "distance": 13550.5,
+          "elevation_gain": 16.0,
+          "moving_time": 3664.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18822386113"
+          ],
+          "count": 1,
+          "distance": 20140.4,
+          "elevation_gain": 91.0,
+          "moving_time": 5569.0
         }
       },
       "Walk": {
@@ -37177,7 +37223,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T17:12:05.762802+00:00",
+  "generated_at": "2026-06-07T16:10:57.582789+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
