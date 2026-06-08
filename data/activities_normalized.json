@@ -28377,5 +28377,31 @@
     "start_date_local": "2026-06-07T11:40:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 9678.7,
+    "elevation_gain": 43.0,
+    "id": "18832400968",
+    "moving_time": 2745.0,
+    "name": "Caf\u00e9 con ron",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T06:15:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 9767.3,
+    "elevation_gain": 93.0,
+    "id": "18835032788",
+    "moving_time": 8661.0,
+    "name": "Turista",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-08T09:41:03Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

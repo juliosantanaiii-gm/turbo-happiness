@@ -19646,6 +19646,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18822386113",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 6,
+      "name": "Caf\u00e9 con ron",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18832400968",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 9,
+      "name": "Turista",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18835032788",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37077,6 +37095,15 @@
           "distance": 20140.4,
           "elevation_gain": 91.0,
           "moving_time": 5569.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18832400968"
+          ],
+          "count": 1,
+          "distance": 9678.7,
+          "elevation_gain": 43.0,
+          "moving_time": 2745.0
         }
       },
       "Walk": {
@@ -37196,6 +37223,15 @@
           "distance": 2168.3,
           "elevation_gain": 25.0,
           "moving_time": 1993.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18835032788"
+          ],
+          "count": 1,
+          "distance": 9767.3,
+          "elevation_gain": 93.0,
+          "moving_time": 8661.0
         }
       },
       "WeightTraining": {
@@ -37223,7 +37259,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:10:57.582789+00:00",
+  "generated_at": "2026-06-08T17:48:38.720947+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
