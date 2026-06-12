@@ -28442,5 +28442,18 @@
     "start_date_local": "2026-06-11T05:33:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 13155.8,
+    "elevation_gain": 63.0,
+    "id": "18886314091",
+    "moving_time": 4430.0,
+    "name": "DtMF",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T05:34:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
