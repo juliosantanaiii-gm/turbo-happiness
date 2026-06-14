@@ -28455,5 +28455,70 @@
     "start_date_local": "2026-06-12T05:34:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 2880.0,
+    "elevation_gain": 31.0,
+    "id": "18893719708",
+    "moving_time": 2525.0,
+    "name": "Jetlagged reunion",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-12T13:44:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 17752.6,
+    "elevation_gain": 57.0,
+    "id": "18898135596",
+    "moving_time": 4755.0,
+    "name": "Morning in Paris, the city awakes",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T05:14:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 11334.7,
+    "elevation_gain": 58.0,
+    "id": "18904435860",
+    "moving_time": 11602.0,
+    "name": "Caf\u00e9 cr\u00e8me and \ud83e\udd50\ud83e\udd50\ud83e\udd50\ud83e\udd50\ud83e\udd50\ud83e\udd50",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-13T09:24:25Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 2152.6,
+    "elevation_gain": 57.0,
+    "id": "18908068666",
+    "moving_time": 2248.0,
+    "name": "Wandering Montmartre",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-13T18:18:35Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 19397.3,
+    "elevation_gain": 56.0,
+    "id": "18911635519",
+    "moving_time": 5395.0,
+    "name": "Sunrise on the Seine",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T05:12:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -19700,6 +19700,51 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18886314091",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 13,
+      "name": "Jetlagged reunion",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18893719708",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 5,
+      "name": "Morning in Paris, the city awakes",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18898135596",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 9,
+      "name": "Caf\u00e9 cr\u00e8me and \ud83e\udd50\ud83e\udd50\ud83e\udd50\ud83e\udd50\ud83e\udd50\ud83e\udd50",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18904435860",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 18,
+      "name": "Wandering Montmartre",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18908068666",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 5,
+      "name": "Sunrise on the Seine",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18911635519",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37176,6 +37221,24 @@
           "distance": 13155.8,
           "elevation_gain": 63.0,
           "moving_time": 4430.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18898135596"
+          ],
+          "count": 1,
+          "distance": 17752.6,
+          "elevation_gain": 57.0,
+          "moving_time": 4755.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18911635519"
+          ],
+          "count": 1,
+          "distance": 19397.3,
+          "elevation_gain": 56.0,
+          "moving_time": 5395.0
         }
       },
       "Walk": {
@@ -37304,6 +37367,25 @@
           "distance": 9767.3,
           "elevation_gain": 93.0,
           "moving_time": 8661.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18893719708"
+          ],
+          "count": 1,
+          "distance": 2880.0,
+          "elevation_gain": 31.0,
+          "moving_time": 2525.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18904435860",
+            "18908068666"
+          ],
+          "count": 2,
+          "distance": 13487.300000000001,
+          "elevation_gain": 115.0,
+          "moving_time": 13850.0
         }
       },
       "WeightTraining": {
@@ -37331,7 +37413,7 @@
       }
     }
   },
-  "generated_at": "2026-06-12T17:35:18.750473+00:00",
+  "generated_at": "2026-06-14T16:18:42.354734+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
