@@ -28520,5 +28520,44 @@
     "start_date_local": "2026-06-14T05:12:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 9674.2,
+    "elevation_gain": 57.0,
+    "id": "18920905248",
+    "moving_time": 9313.0,
+    "name": "Carnivalet, Champs-\u00c9lys\u00e9es, brie, butter, baguettes",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-14T09:01:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 9742.1,
+    "elevation_gain": 17.0,
+    "id": "18924673742",
+    "moving_time": 3119.0,
+    "name": "Moving on",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-15T05:20:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 5565.0,
+    "elevation_gain": 44.0,
+    "id": "18932390737",
+    "moving_time": 5054.0,
+    "name": "\ud83c\uddeb\ud83c\uddf7 \u27a1\ufe0f \ud83c\uddec\ud83c\udde7",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-15T06:30:44Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

@@ -19745,6 +19745,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18911635519",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 9,
+      "name": "Carnivalet, Champs-\u00c9lys\u00e9es, brie, butter, baguettes",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18920905248",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 5,
+      "name": "Moving on",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18924673742",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 6,
+      "name": "\ud83c\uddeb\ud83c\uddf7 \u27a1\ufe0f \ud83c\uddec\ud83c\udde7",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18932390737",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37239,6 +37266,15 @@
           "distance": 19397.3,
           "elevation_gain": 56.0,
           "moving_time": 5395.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18924673742"
+          ],
+          "count": 1,
+          "distance": 9742.1,
+          "elevation_gain": 17.0,
+          "moving_time": 3119.0
         }
       },
       "Walk": {
@@ -37386,6 +37422,24 @@
           "distance": 13487.300000000001,
           "elevation_gain": 115.0,
           "moving_time": 13850.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18920905248"
+          ],
+          "count": 1,
+          "distance": 9674.2,
+          "elevation_gain": 57.0,
+          "moving_time": 9313.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18932390737"
+          ],
+          "count": 1,
+          "distance": 5565.0,
+          "elevation_gain": 44.0,
+          "moving_time": 5054.0
         }
       },
       "WeightTraining": {
@@ -37413,7 +37467,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:18:42.354734+00:00",
+  "generated_at": "2026-06-15T19:01:39.098931+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
