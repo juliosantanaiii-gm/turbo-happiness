@@ -28559,5 +28559,31 @@
     "start_date_local": "2026-06-15T06:30:44Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 16145.0,
+    "elevation_gain": 129.0,
+    "id": "18938238497",
+    "moving_time": 5115.0,
+    "name": "Early bird",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T04:18:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 10042.9,
+    "elevation_gain": 46.0,
+    "id": "18947218728",
+    "moving_time": 8582.0,
+    "name": "Tower of London, St Paul's, London Eye...",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-16T07:08:53Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
