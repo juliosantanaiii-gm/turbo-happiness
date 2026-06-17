@@ -28585,5 +28585,18 @@
     "start_date_local": "2026-06-16T07:08:53Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 13238.9,
+    "elevation_gain": 53.0,
+    "id": "18953380235",
+    "moving_time": 3863.0,
+    "name": "Second to the right, straight on until morning",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T05:36:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
