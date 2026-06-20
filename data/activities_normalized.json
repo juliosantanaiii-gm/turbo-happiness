@@ -28650,5 +28650,18 @@
     "start_date_local": "2026-06-19T05:20:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 16120.4,
+    "elevation_gain": 38.0,
+    "id": "18999022591",
+    "moving_time": 4395.0,
+    "name": "Back to work",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T07:48:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -19835,6 +19835,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18979951832",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 7,
+      "name": "Back to work",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18999022591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37374,6 +37383,15 @@
           "distance": 10586.5,
           "elevation_gain": 27.0,
           "moving_time": 2979.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18999022591"
+          ],
+          "count": 1,
+          "distance": 16120.4,
+          "elevation_gain": 38.0,
+          "moving_time": 4395.0
         }
       },
       "Walk": {
@@ -37593,7 +37611,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:14:43.145188+00:00",
+  "generated_at": "2026-06-20T16:14:09.230166+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
