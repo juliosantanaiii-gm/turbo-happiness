@@ -19844,6 +19844,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18999022591",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 8,
+      "name": "Summer solstice \ud83c\udf04\ud83c\udf1e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19012108805",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37392,6 +37401,15 @@
           "distance": 16120.4,
           "elevation_gain": 38.0,
           "moving_time": 4395.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012108805"
+          ],
+          "count": 1,
+          "distance": 19340.5,
+          "elevation_gain": 199.0,
+          "moving_time": 5293.0
         }
       },
       "Walk": {
@@ -37611,7 +37629,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:14:09.230166+00:00",
+  "generated_at": "2026-06-21T16:27:01.523828+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
