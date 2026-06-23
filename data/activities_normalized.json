@@ -28689,5 +28689,31 @@
     "start_date_local": "2026-06-22T09:19:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19028623293",
+    "moving_time": 2668.0,
+    "name": "Putting the hay in the barn",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T16:48:10Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 16127.3,
+    "elevation_gain": 81.0,
+    "id": "19035523702",
+    "moving_time": 4727.0,
+    "name": "Race week! \ud83c\udfce\ufe0f\ud83c\udfc1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T05:13:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
