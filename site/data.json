@@ -19898,6 +19898,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19054242339",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 10,
+      "name": "Soggy",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19064673477",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19073505752",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37482,6 +37500,24 @@
           "distance": 12924.3,
           "elevation_gain": 138.0,
           "moving_time": 3746.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19064673477"
+          ],
+          "count": 1,
+          "distance": 12962.3,
+          "elevation_gain": 137.0,
+          "moving_time": 3747.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19073505752"
+          ],
+          "count": 1,
+          "distance": 9696.2,
+          "elevation_gain": 73.0,
+          "moving_time": 2870.0
         }
       },
       "Walk": {
@@ -37719,7 +37755,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:08:14.848132+00:00",
+  "generated_at": "2026-06-26T16:57:32.116707+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
