@@ -28767,5 +28767,44 @@
     "start_date_local": "2026-06-26T06:09:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 2351.2,
+    "elevation_gain": 11.0,
+    "id": "19092310849",
+    "moving_time": 789.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T18:26:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 1652.9,
+    "elevation_gain": 5.0,
+    "id": "19092310855",
+    "moving_time": 329.0,
+    "name": "Pearl Street Mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T18:57:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 725.6,
+    "elevation_gain": 14.0,
+    "id": "19092314178",
+    "moving_time": 259.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T19:09:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
