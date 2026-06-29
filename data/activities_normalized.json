@@ -28806,5 +28806,31 @@
     "start_date_local": "2026-06-27T19:09:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 19339.3,
+    "elevation_gain": 201.0,
+    "id": "19103367825",
+    "moving_time": 5434.0,
+    "name": "Stuck in the mud?",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T13:08:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 10073.8,
+    "elevation_gain": 80.0,
+    "id": "19110278125",
+    "moving_time": 2998.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-29T06:27:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
