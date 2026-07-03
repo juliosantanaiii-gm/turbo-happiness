@@ -28884,5 +28884,18 @@
     "start_date_local": "2026-07-02T05:18:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 9688.9,
+    "elevation_gain": 30.0,
+    "id": "19164362446",
+    "moving_time": 2870.0,
+    "name": "600m tt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-03T07:18:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
