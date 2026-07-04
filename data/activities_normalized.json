@@ -28897,5 +28897,18 @@
     "start_date_local": "2026-07-03T07:18:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 28989.6,
+    "elevation_gain": 131.0,
+    "id": "19177311686",
+    "moving_time": 8023.0,
+    "name": "Whoops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-04T05:54:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
