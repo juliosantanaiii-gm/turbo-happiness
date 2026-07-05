@@ -28910,5 +28910,18 @@
     "start_date_local": "2026-07-04T05:54:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 12896.1,
+    "elevation_gain": 137.0,
+    "id": "19190854260",
+    "moving_time": 3825.0,
+    "name": "Summer mode",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T08:01:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
