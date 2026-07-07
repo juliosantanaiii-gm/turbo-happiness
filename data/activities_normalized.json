@@ -28923,5 +28923,31 @@
     "start_date_local": "2026-07-05T08:01:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 11293.4,
+    "elevation_gain": 111.0,
+    "id": "19206910652",
+    "moving_time": 3396.0,
+    "name": "Race week (?!)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-06T15:29:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 12899.2,
+    "elevation_gain": 32.0,
+    "id": "19214014438",
+    "moving_time": 3991.0,
+    "name": "Track Tuesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T05:15:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
