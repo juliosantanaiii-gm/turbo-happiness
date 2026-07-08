@@ -28949,5 +28949,18 @@
     "start_date_local": "2026-07-07T05:15:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 12891.9,
+    "elevation_gain": 138.0,
+    "id": "19228335154",
+    "moving_time": 3938.0,
+    "name": "Sleepy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T05:41:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

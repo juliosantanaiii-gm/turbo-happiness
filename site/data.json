@@ -20042,6 +20042,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19214014438",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 5,
+      "name": "Sleepy",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19228335154",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37746,6 +37755,15 @@
           "distance": 12899.2,
           "elevation_gain": 32.0,
           "moving_time": 3991.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19228335154"
+          ],
+          "count": 1,
+          "distance": 12891.9,
+          "elevation_gain": 138.0,
+          "moving_time": 3938.0
         }
       },
       "Walk": {
@@ -37983,7 +38001,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:08:48.790840+00:00",
+  "generated_at": "2026-07-08T16:26:58.263675+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
