@@ -20078,6 +20078,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19250599109",
       "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 12,
+      "name": "Phase delay",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19259914187",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 5,
+      "name": "Citius!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19269775716",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37802,6 +37820,24 @@
           "distance": 12951.0,
           "elevation_gain": 75.0,
           "moving_time": 3748.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "19259914187"
+          ],
+          "count": 1,
+          "distance": 16121.4,
+          "elevation_gain": 173.0,
+          "moving_time": 4719.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "19269775716"
+          ],
+          "count": 1,
+          "distance": 25771.6,
+          "elevation_gain": 194.0,
+          "moving_time": 7013.0
         }
       },
       "Walk": {
@@ -38039,7 +38075,7 @@
       }
     }
   },
-  "generated_at": "2026-07-10T16:51:32.740706+00:00",
+  "generated_at": "2026-07-11T15:50:06.949877+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
