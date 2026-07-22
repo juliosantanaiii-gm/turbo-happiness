@@ -20222,6 +20222,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19402547627",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 15,
+      "name": "Eventually consistent",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19409830727",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 5,
+      "name": "DOMS",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19417390325",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38051,12 +38069,22 @@
         },
         "2026-07-21": {
           "activity_ids": [
-            "19402547627"
+            "19402547627",
+            "19409830727"
+          ],
+          "count": 2,
+          "distance": 17268.2,
+          "elevation_gain": 99.0,
+          "moving_time": 5163.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19417390325"
           ],
           "count": 1,
-          "distance": 10787.1,
-          "elevation_gain": 41.0,
-          "moving_time": 3092.0
+          "distance": 12935.5,
+          "elevation_gain": 148.0,
+          "moving_time": 3995.0
         }
       },
       "Walk": {
@@ -38303,7 +38331,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T16:19:26.914378+00:00",
+  "generated_at": "2026-07-22T16:17:08.347744+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
