@@ -29248,5 +29248,31 @@
     "start_date_local": "2026-07-23T05:42:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 6738.1,
+    "elevation_gain": 48.0,
+    "id": "19440000334",
+    "moving_time": 2000.0,
+    "name": "Vespers",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-23T19:24:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 13531.4,
+    "elevation_gain": 35.0,
+    "id": "19445114443",
+    "moving_time": 3732.0,
+    "name": "Alternators",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T05:30:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
