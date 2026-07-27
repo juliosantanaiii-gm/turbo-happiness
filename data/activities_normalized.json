@@ -29287,5 +29287,31 @@
     "start_date_local": "2026-07-25T05:47:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 12903.3,
+    "elevation_gain": 135.0,
+    "id": "19475168481",
+    "moving_time": 3832.0,
+    "name": "Sunday morning",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T08:57:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 9740.7,
+    "elevation_gain": 76.0,
+    "id": "19485078460",
+    "moving_time": 3040.0,
+    "name": "Run it back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-27T06:07:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

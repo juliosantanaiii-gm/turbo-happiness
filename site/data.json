@@ -20276,6 +20276,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19459897560",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 8,
+      "name": "Sunday morning",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19475168481",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-27",
+      "hour": 6,
+      "name": "Run it back",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19485078460",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38149,6 +38167,24 @@
           "distance": 26025.9,
           "elevation_gain": 123.0,
           "moving_time": 7061.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19475168481"
+          ],
+          "count": 1,
+          "distance": 12903.3,
+          "elevation_gain": 135.0,
+          "moving_time": 3832.0
+        },
+        "2026-07-27": {
+          "activity_ids": [
+            "19485078460"
+          ],
+          "count": 1,
+          "distance": 9740.7,
+          "elevation_gain": 76.0,
+          "moving_time": 3040.0
         }
       },
       "Walk": {
@@ -38395,7 +38431,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T15:57:43.250973+00:00",
+  "generated_at": "2026-07-27T16:54:07.308404+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
