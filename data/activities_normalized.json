@@ -29313,5 +29313,44 @@
     "start_date_local": "2026-07-27T06:07:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 4929.9,
+    "elevation_gain": 25.0,
+    "id": "19498847843",
+    "moving_time": 1512.0,
+    "name": "Warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T05:08:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 1670.9,
+    "elevation_gain": 0.0,
+    "id": "19499062733",
+    "moving_time": 302.0,
+    "name": "Game of inches",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T06:00:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 5860.8,
+    "elevation_gain": 1.0,
+    "id": "19499498604",
+    "moving_time": 1443.0,
+    "name": "Extra credit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T06:15:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
