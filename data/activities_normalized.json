@@ -29391,5 +29391,18 @@
     "start_date_local": "2026-07-30T05:23:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 15307.8,
+    "elevation_gain": 178.0,
+    "id": "19542794739",
+    "moving_time": 4595.0,
+    "name": "Heavy legs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-31T06:27:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
