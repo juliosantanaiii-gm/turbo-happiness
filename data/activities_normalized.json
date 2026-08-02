@@ -29417,5 +29417,31 @@
     "start_date_local": "2026-08-01T07:07:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 5578.4,
+    "elevation_gain": 30.0,
+    "id": "19570637809",
+    "moving_time": 1820.0,
+    "name": "Warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T07:03:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 1668.8,
+    "elevation_gain": 2.0,
+    "id": "19571103593",
+    "moving_time": 301.0,
+    "name": "Zeno's mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T08:15:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
