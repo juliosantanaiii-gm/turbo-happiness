@@ -29469,5 +29469,31 @@
     "start_date_local": "2026-08-03T15:36:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 12906.9,
+    "elevation_gain": 0.0,
+    "id": "19603363025",
+    "moving_time": 3622.0,
+    "name": "Smoke dodging",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T13:42:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 11278.1,
+    "elevation_gain": 58.0,
+    "id": "19612113055",
+    "moving_time": 3159.0,
+    "name": "Sharpening",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T05:18:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
