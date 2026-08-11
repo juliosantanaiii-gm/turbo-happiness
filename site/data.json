@@ -20456,6 +20456,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19669417881",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 5,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19695408131",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38460,6 +38469,15 @@
           "distance": 9679.6,
           "elevation_gain": 30.0,
           "moving_time": 2674.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19695408131"
+          ],
+          "count": 1,
+          "distance": 7387.4,
+          "elevation_gain": 53.0,
+          "moving_time": 2385.0
         }
       },
       "Walk": {
@@ -38715,7 +38733,7 @@
       }
     }
   },
-  "generated_at": "2026-08-10T15:55:22.151969+00:00",
+  "generated_at": "2026-08-11T15:55:37.191051+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
