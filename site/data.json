@@ -20465,6 +20465,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19695408131",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 6,
+      "name": "\u2764\ufe0f\u200d\ud83d\udd25 sub 5 mile \u2764\ufe0f\u200d\ud83d\udd25",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19710234365",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 5,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19710234570",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 6,
+      "name": "Off-season workout",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19710547720",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38478,6 +38505,17 @@
           "distance": 7387.4,
           "elevation_gain": 53.0,
           "moving_time": 2385.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19710234365",
+            "19710234570",
+            "19710547720"
+          ],
+          "count": 3,
+          "distance": 9870.1,
+          "elevation_gain": 23.0,
+          "moving_time": 2584.0
         }
       },
       "Walk": {
@@ -38733,7 +38771,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T15:55:37.191051+00:00",
+  "generated_at": "2026-08-12T15:54:43.964411+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
