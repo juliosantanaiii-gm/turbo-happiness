@@ -29599,5 +29599,18 @@
     "start_date_local": "2026-08-12T06:16:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 15296.5,
+    "elevation_gain": 173.0,
+    "id": "19724970599",
+    "moving_time": 4573.0,
+    "name": "Victory Lap",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-13T05:37:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
