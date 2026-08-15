@@ -20510,6 +20510,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19738682082",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 5,
+      "name": "Saturday standard",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19753312019",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38552,6 +38561,15 @@
           "distance": 14563.3,
           "elevation_gain": 120.0,
           "moving_time": 4263.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19753312019"
+          ],
+          "count": 1,
+          "distance": 27426.8,
+          "elevation_gain": 82.0,
+          "moving_time": 7344.0
         }
       },
       "Walk": {
@@ -38807,7 +38825,7 @@
       }
     }
   },
-  "generated_at": "2026-08-14T15:44:37.801528+00:00",
+  "generated_at": "2026-08-15T15:14:52.754913+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
