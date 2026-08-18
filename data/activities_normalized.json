@@ -29664,5 +29664,18 @@
     "start_date_local": "2026-08-17T05:32:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 14559.9,
+    "elevation_gain": 107.0,
+    "id": "19794710211",
+    "moving_time": 4281.0,
+    "name": "... it's the humidity",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T05:54:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
