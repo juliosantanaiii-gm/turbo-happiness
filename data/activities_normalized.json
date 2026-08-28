@@ -29781,5 +29781,18 @@
     "start_date_local": "2026-08-26T05:46:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 14512.1,
+    "elevation_gain": 77.0,
+    "id": "19922462965",
+    "moving_time": 4236.0,
+    "name": "Thrack Thursday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-27T05:42:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
