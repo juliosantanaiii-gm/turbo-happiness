@@ -20681,6 +20681,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19990517218",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 13,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19996018988",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 5,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20005114195",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38885,6 +38903,15 @@
           "distance": 16575.2,
           "elevation_gain": 41.0,
           "moving_time": 4431.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20005114195"
+          ],
+          "count": 1,
+          "distance": 18047.2,
+          "elevation_gain": 194.0,
+          "moving_time": 4864.0
         }
       },
       "Walk": {
@@ -39133,6 +39160,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2668.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19996018988"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2958.0
         }
       },
       "Workout": {
@@ -39149,7 +39185,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:06:26.191906+00:00",
+  "generated_at": "2026-09-02T18:21:31.514110+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
