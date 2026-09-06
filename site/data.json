@@ -20726,6 +20726,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20048179821",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 6,
+      "name": "Bring on the down week",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20062538913",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38966,6 +38975,15 @@
           "distance": 34429.4,
           "elevation_gain": 163.0,
           "moving_time": 9166.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20062538913"
+          ],
+          "count": 1,
+          "distance": 12557.5,
+          "elevation_gain": 62.0,
+          "moving_time": 3623.0
         }
       },
       "Walk": {
@@ -39239,7 +39257,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T17:04:13.619744+00:00",
+  "generated_at": "2026-09-06T17:27:30.939564+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

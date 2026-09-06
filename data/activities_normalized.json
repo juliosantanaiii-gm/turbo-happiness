@@ -29937,5 +29937,18 @@
     "start_date_local": "2026-09-05T05:38:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 12557.5,
+    "elevation_gain": 62.0,
+    "id": "20062538913",
+    "moving_time": 3623.0,
+    "name": "Bring on the down week",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T06:36:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
