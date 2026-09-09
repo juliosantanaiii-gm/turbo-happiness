@@ -29989,5 +29989,18 @@
     "start_date_local": "2026-09-08T05:29:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 16099.5,
+    "elevation_gain": 173.0,
+    "id": "20102280718",
+    "moving_time": 4774.0,
+    "name": "Autumnal",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T05:27:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
