@@ -30002,5 +30002,18 @@
     "start_date_local": "2026-09-09T05:27:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 7322.7,
+    "elevation_gain": 77.0,
+    "id": "20129706180",
+    "moving_time": 2175.0,
+    "name": "Pre race shake",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T06:03:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
