@@ -20780,6 +20780,51 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20129706180",
       "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 7,
+      "name": "Rino Warmup!",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20144676632",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 8,
+      "name": "Rino 5K \ud83e\udd8f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20145251552",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 9,
+      "name": "Between races \u23f3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20145768902",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 9,
+      "name": "Larimer Mile",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20146222665",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 10,
+      "name": "Cooldown",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20147201544",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39065,6 +39110,19 @@
           "distance": 7322.7,
           "elevation_gain": 77.0,
           "moving_time": 2175.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "20144676632",
+            "20145251552",
+            "20145768902",
+            "20146222665",
+            "20147201544"
+          ],
+          "count": 5,
+          "distance": 22910.4,
+          "elevation_gain": 44.0,
+          "moving_time": 6061.0
         }
       },
       "Walk": {
@@ -39347,7 +39405,7 @@
       }
     }
   },
-  "generated_at": "2026-09-11T18:06:33.883615+00:00",
+  "generated_at": "2026-09-12T17:38:34.817555+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

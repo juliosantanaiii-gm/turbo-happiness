@@ -30015,5 +30015,70 @@
     "start_date_local": "2026-09-11T06:03:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 4582.9,
+    "elevation_gain": 7.0,
+    "id": "20144676632",
+    "moving_time": 1282.0,
+    "name": "Rino Warmup!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T07:46:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 5039.7,
+    "elevation_gain": 12.0,
+    "id": "20145251552",
+    "moving_time": 1039.0,
+    "name": "Rino 5K \ud83e\udd8f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T08:30:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 3478.4,
+    "elevation_gain": 3.0,
+    "id": "20145768902",
+    "moving_time": 1082.0,
+    "name": "Between races \u23f3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T09:03:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 1604.2,
+    "elevation_gain": 2.0,
+    "id": "20146222665",
+    "moving_time": 301.0,
+    "name": "Larimer Mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T09:45:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 8205.2,
+    "elevation_gain": 20.0,
+    "id": "20147201544",
+    "moving_time": 2357.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T10:02:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
