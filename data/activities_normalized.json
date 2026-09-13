@@ -30031,7 +30031,7 @@
   },
   {
     "date": "2026-09-12",
-    "distance": 5039.7,
+    "distance": 5036.9,
     "elevation_gain": 12.0,
     "id": "20145251552",
     "moving_time": 1039.0,
@@ -30078,6 +30078,32 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-09-12T10:02:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20149823083",
+    "moving_time": 2028.0,
+    "name": "Birthday party \ud83c\udf89\ud83e\udd73",
+    "raw_activity_type": "IceSkate",
+    "raw_type": "IceSkate",
+    "start_date_local": "2026-09-12T15:28:36Z",
+    "type": "IceSkate",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 15300.9,
+    "elevation_gain": 70.0,
+    "id": "20158718473",
+    "moving_time": 4448.0,
+    "name": "Sunday standard",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-13T06:15:12Z",
     "type": "Run",
     "year": 2026
   }

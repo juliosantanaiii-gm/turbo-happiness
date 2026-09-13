@@ -20825,6 +20825,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20147201544",
       "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 15,
+      "name": "Birthday party \ud83c\udf89\ud83e\udd73",
+      "subtype": "IceSkate",
+      "type": "IceSkate",
+      "url": "https://www.strava.com/activities/20149823083",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 6,
+      "name": "Sunday standard",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20158718473",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36915,6 +36933,17 @@
       }
     },
     "2026": {
+      "IceSkate": {
+        "2026-09-12": {
+          "activity_ids": [
+            "20149823083"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2028.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -39120,9 +39149,18 @@
             "20147201544"
           ],
           "count": 5,
-          "distance": 22910.4,
+          "distance": 22907.6,
           "elevation_gain": 44.0,
           "moving_time": 6061.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20158718473"
+          ],
+          "count": 1,
+          "distance": 15300.9,
+          "elevation_gain": 70.0,
+          "moving_time": 4448.0
         }
       },
       "Walk": {
@@ -39405,7 +39443,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:38:34.817555+00:00",
+  "generated_at": "2026-09-13T17:51:47.963117+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
@@ -39419,6 +39457,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "IceSkate": {
+      "accent": "#00f5d4",
+      "label": "Ice Skate"
     },
     "MountainBikeRide": {
       "accent": "#f15bb5",
@@ -39464,6 +39506,7 @@
   "types": [
     "Elliptical",
     "Hike",
+    "IceSkate",
     "MountainBikeRide",
     "Ride",
     "Run",
