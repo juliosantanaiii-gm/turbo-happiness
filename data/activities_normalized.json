@@ -30106,5 +30106,18 @@
     "start_date_local": "2026-09-13T06:15:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 14496.7,
+    "elevation_gain": 124.0,
+    "id": "20170179900",
+    "moving_time": 4131.0,
+    "name": "Great start to the week",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-14T05:33:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
