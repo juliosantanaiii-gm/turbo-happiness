@@ -30119,5 +30119,18 @@
     "start_date_local": "2026-09-14T05:33:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 17719.4,
+    "elevation_gain": 48.0,
+    "id": "20184727688",
+    "moving_time": 4897.0,
+    "name": "Track Tuesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-15T05:22:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
