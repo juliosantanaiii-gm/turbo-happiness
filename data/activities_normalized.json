@@ -30171,5 +30171,18 @@
     "start_date_local": "2026-09-18T05:38:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 27373.5,
+    "elevation_gain": 68.0,
+    "id": "20242096266",
+    "moving_time": 7094.0,
+    "name": "Saturday standard",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T06:42:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
