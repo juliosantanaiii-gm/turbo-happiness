@@ -30236,5 +30236,18 @@
     "start_date_local": "2026-09-21T05:50:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 17721.5,
+    "elevation_gain": 46.0,
+    "id": "20281115256",
+    "moving_time": 4926.0,
+    "name": "Crown Hill Lake Nightcrawler",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-22T05:07:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
