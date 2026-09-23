@@ -30249,5 +30249,31 @@
     "start_date_local": "2026-09-22T05:07:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20290440331",
+    "moving_time": 4933.0,
+    "name": "Evening Inline Skate",
+    "raw_activity_type": "InlineSkate",
+    "raw_type": "InlineSkate",
+    "start_date_local": "2026-09-22T18:12:00Z",
+    "type": "InlineSkate",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 19352.2,
+    "elevation_gain": 170.0,
+    "id": "20295943834",
+    "moving_time": 5351.0,
+    "name": "MLR",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-23T05:16:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
