@@ -20996,6 +20996,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20352255639",
       "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 14,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20357538355",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20364138540",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 9,
+      "name": "Kenosha Pass",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/20368880774",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37086,6 +37113,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-09-28": {
+          "activity_ids": [
+            "20368880774"
+          ],
+          "count": 1,
+          "distance": 10781.7,
+          "elevation_gain": 327.0,
+          "moving_time": 9526.0
+        }
+      },
       "IceSkate": {
         "2026-09-12": {
           "activity_ids": [
@@ -39452,6 +39490,15 @@
           "distance": 13010.1,
           "elevation_gain": 65.0,
           "moving_time": 3634.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20364138540"
+          ],
+          "count": 1,
+          "distance": 12898.1,
+          "elevation_gain": 137.0,
+          "moving_time": 3750.0
         }
       },
       "Walk": {
@@ -39727,6 +39774,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4985.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "20357538355"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2705.0
         }
       },
       "Workout": {
@@ -39743,7 +39799,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:51:04.503540+00:00",
+  "generated_at": "2026-09-28T21:01:27.381456+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

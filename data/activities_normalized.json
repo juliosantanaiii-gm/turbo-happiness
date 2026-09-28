@@ -30327,5 +30327,44 @@
     "start_date_local": "2026-09-27T06:32:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20357538355",
+    "moving_time": 2705.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-27T14:58:48Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 12898.1,
+    "elevation_gain": 137.0,
+    "id": "20364138540",
+    "moving_time": 3750.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-28T06:27:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 10781.7,
+    "elevation_gain": 327.0,
+    "id": "20368880774",
+    "moving_time": 9526.0,
+    "name": "Kenosha Pass",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-28T09:28:42Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
