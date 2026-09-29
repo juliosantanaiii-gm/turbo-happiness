@@ -30366,5 +30366,18 @@
     "start_date_local": "2026-09-28T09:28:42Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 16246.9,
+    "elevation_gain": 40.0,
+    "id": "20377583807",
+    "moving_time": 4457.0,
+    "name": "Improvement \ud83d\udcc8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T05:09:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
