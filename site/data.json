@@ -21095,6 +21095,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20459717458",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 5,
+      "name": "Hotstepper",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20473854947",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39634,6 +39643,15 @@
           "distance": 12897.1,
           "elevation_gain": 140.0,
           "moving_time": 3825.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20473854947"
+          ],
+          "count": 1,
+          "distance": 16309.7,
+          "elevation_gain": 38.0,
+          "moving_time": 4174.0
         }
       },
       "Walk": {
@@ -39943,7 +39961,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T21:46:40.666063+00:00",
+  "generated_at": "2026-10-06T19:56:56.860186+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
