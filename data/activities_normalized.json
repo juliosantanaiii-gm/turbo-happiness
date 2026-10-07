@@ -30483,5 +30483,18 @@
     "start_date_local": "2026-10-06T05:23:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 17724.2,
+    "elevation_gain": 159.0,
+    "id": "20488267296",
+    "moving_time": 4934.0,
+    "name": "Confident",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-07T05:19:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
