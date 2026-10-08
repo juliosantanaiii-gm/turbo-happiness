@@ -30496,5 +30496,18 @@
     "start_date_local": "2026-10-07T05:19:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 12908.8,
+    "elevation_gain": 136.0,
+    "id": "20502116695",
+    "moving_time": 3693.0,
+    "name": "Smooth",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-08T05:49:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
