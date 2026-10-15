@@ -30600,5 +30600,18 @@
     "start_date_local": "2026-10-14T05:21:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 14507.0,
+    "elevation_gain": 98.0,
+    "id": "20595044391",
+    "moving_time": 4221.0,
+    "name": "Headlamps and handwarmers",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T05:25:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
