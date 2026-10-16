@@ -30613,5 +30613,18 @@
     "start_date_local": "2026-10-15T05:25:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 11300.4,
+    "elevation_gain": 106.0,
+    "id": "20608177341",
+    "moving_time": 3351.0,
+    "name": "Brisk",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-16T05:49:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
