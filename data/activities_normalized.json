@@ -30626,5 +30626,18 @@
     "start_date_local": "2026-10-16T05:49:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 28988.9,
+    "elevation_gain": 97.0,
+    "id": "20622982149",
+    "moving_time": 7169.0,
+    "name": "Last big workout of the cycle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-17T06:42:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
