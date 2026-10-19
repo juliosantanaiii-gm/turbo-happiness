@@ -21221,6 +21221,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20637126716",
       "year": 2026
+    },
+    {
+      "date": "2026-10-19",
+      "hour": 5,
+      "name": "Gentle start to the week",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20646679562",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39877,6 +39886,15 @@
           "distance": 14532.1,
           "elevation_gain": 162.0,
           "moving_time": 4376.0
+        },
+        "2026-10-19": {
+          "activity_ids": [
+            "20646679562"
+          ],
+          "count": 1,
+          "distance": 13100.4,
+          "elevation_gain": 100.0,
+          "moving_time": 3898.0
         }
       },
       "Walk": {
@@ -40195,7 +40213,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:43:52.645573+00:00",
+  "generated_at": "2026-10-19T20:19:36.064043+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
