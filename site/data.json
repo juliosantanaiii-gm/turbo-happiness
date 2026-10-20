@@ -21230,6 +21230,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20646679562",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 5,
+      "name": "Track Tuesday (3xmile)",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20660247253",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39895,6 +39904,15 @@
           "distance": 13100.4,
           "elevation_gain": 100.0,
           "moving_time": 3898.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20660247253"
+          ],
+          "count": 1,
+          "distance": 12970.1,
+          "elevation_gain": 45.0,
+          "moving_time": 3513.0
         }
       },
       "Walk": {
@@ -40213,7 +40231,7 @@
       }
     }
   },
-  "generated_at": "2026-10-19T20:19:36.064043+00:00",
+  "generated_at": "2026-10-20T18:52:19.645200+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
