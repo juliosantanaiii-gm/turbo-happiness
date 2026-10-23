@@ -30704,5 +30704,18 @@
     "start_date_local": "2026-10-22T05:26:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 11286.0,
+    "elevation_gain": 86.0,
+    "id": "20700609397",
+    "moving_time": 3370.0,
+    "name": "Sunrise! \ud83c\udf04",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-23T06:33:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
