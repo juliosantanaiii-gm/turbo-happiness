@@ -21266,6 +21266,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20700609397",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 8,
+      "name": "Training season's over",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20714642929",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39967,6 +39976,15 @@
           "distance": 11286.0,
           "elevation_gain": 86.0,
           "moving_time": 3370.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20714642929"
+          ],
+          "count": 1,
+          "distance": 7054.0,
+          "elevation_gain": 47.0,
+          "moving_time": 2072.0
         }
       },
       "Walk": {
@@ -40285,7 +40303,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:50:06.657767+00:00",
+  "generated_at": "2026-10-24T17:46:09.674737+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

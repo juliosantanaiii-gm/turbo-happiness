@@ -30717,5 +30717,18 @@
     "start_date_local": "2026-10-23T06:33:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 7054.0,
+    "elevation_gain": 47.0,
+    "id": "20714642929",
+    "moving_time": 2072.0,
+    "name": "Training season's over",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-24T08:36:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
