@@ -30730,5 +30730,44 @@
     "start_date_local": "2026-10-24T08:36:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 10097.1,
+    "elevation_gain": 43.0,
+    "id": "20728033843",
+    "moving_time": 2145.0,
+    "name": "Ghosts and Goblins 10K \ud83d\udc7b\ud83e\udd49(35:46)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T09:00:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 5534.2,
+    "elevation_gain": 31.0,
+    "id": "20728034257",
+    "moving_time": 1712.0,
+    "name": "Warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T08:05:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 5331.5,
+    "elevation_gain": 25.0,
+    "id": "20728523398",
+    "moving_time": 1714.0,
+    "name": "Cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T09:40:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
