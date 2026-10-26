@@ -21302,6 +21302,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20728523398",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 5,
+      "name": "Hurts so good",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20736787495",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40023,6 +40032,15 @@
           "distance": 20962.8,
           "elevation_gain": 99.0,
           "moving_time": 5571.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20736787495"
+          ],
+          "count": 1,
+          "distance": 9685.8,
+          "elevation_gain": 72.0,
+          "moving_time": 3229.0
         }
       },
       "Walk": {
@@ -40341,7 +40359,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T18:02:06.187127+00:00",
+  "generated_at": "2026-10-26T20:16:18.085673+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",

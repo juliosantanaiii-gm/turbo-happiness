@@ -30769,5 +30769,18 @@
     "start_date_local": "2026-10-25T09:40:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 9685.8,
+    "elevation_gain": 72.0,
+    "id": "20736787495",
+    "moving_time": 3229.0,
+    "name": "Hurts so good",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-26T05:37:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
