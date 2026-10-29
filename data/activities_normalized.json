@@ -30808,5 +30808,18 @@
     "start_date_local": "2026-10-28T05:14:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 12901.7,
+    "elevation_gain": 139.0,
+    "id": "20777950740",
+    "moving_time": 3809.0,
+    "name": "Job's not finished",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T05:43:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
