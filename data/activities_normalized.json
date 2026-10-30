@@ -30821,5 +30821,18 @@
     "start_date_local": "2026-10-29T05:43:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 12107.5,
+    "elevation_gain": 84.0,
+    "id": "20790536581",
+    "moving_time": 3450.0,
+    "name": "\ud83c\udf83",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-30T05:40:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
