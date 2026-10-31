@@ -30834,5 +30834,18 @@
     "start_date_local": "2026-10-30T05:40:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 19331.2,
+    "elevation_gain": 142.0,
+    "id": "20805566942",
+    "moving_time": 5169.0,
+    "name": "Est\u00e1ndar del Sabado con Benito",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T07:27:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
