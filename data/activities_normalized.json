@@ -30873,5 +30873,18 @@
     "start_date_local": "2026-11-02T05:52:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 12891.2,
+    "elevation_gain": 56.0,
+    "id": "20842845101",
+    "moving_time": 3579.0,
+    "name": "Race week workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T05:33:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

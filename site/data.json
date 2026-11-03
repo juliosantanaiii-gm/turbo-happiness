@@ -21374,6 +21374,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20829417123",
       "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 5,
+      "name": "Race week workout",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20842845101",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40167,6 +40176,15 @@
           "distance": 11857.3,
           "elevation_gain": 106.0,
           "moving_time": 3432.0
+        },
+        "2026-11-03": {
+          "activity_ids": [
+            "20842845101"
+          ],
+          "count": 1,
+          "distance": 12891.2,
+          "elevation_gain": 56.0,
+          "moving_time": 3579.0
         }
       },
       "Walk": {
@@ -40485,7 +40503,7 @@
       }
     }
   },
-  "generated_at": "2026-11-02T22:58:09.755664+00:00",
+  "generated_at": "2026-11-03T20:44:23.252309+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
