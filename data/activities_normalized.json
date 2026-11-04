@@ -30886,5 +30886,18 @@
     "start_date_local": "2026-11-03T05:33:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 9687.0,
+    "elevation_gain": 79.0,
+    "id": "20856656873",
+    "moving_time": 2804.0,
+    "name": "\"Lawyer up.\"",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-04T05:49:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
