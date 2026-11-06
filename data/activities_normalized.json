@@ -30912,5 +30912,18 @@
     "start_date_local": "2026-11-05T05:46:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-06",
+    "distance": 6047.5,
+    "elevation_gain": 43.0,
+    "id": "20882429462",
+    "moving_time": 1841.0,
+    "name": "Systems health check",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-06T05:44:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
