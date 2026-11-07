@@ -21410,6 +21410,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20882429462",
       "year": 2026
+    },
+    {
+      "date": "2026-11-06",
+      "hour": 19,
+      "name": "Evening Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20888770999",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 7,
+      "name": "Warmup",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20896089933",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 8,
+      "name": "Indy Monumental Half",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20896098409",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40239,6 +40266,16 @@
           "distance": 6047.5,
           "elevation_gain": 43.0,
           "moving_time": 1841.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20896089933",
+            "20896098409"
+          ],
+          "count": 2,
+          "distance": 25547.8,
+          "elevation_gain": 38.0,
+          "moving_time": 5797.0
         }
       },
       "Walk": {
@@ -40553,11 +40590,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1876.0
+        },
+        "2026-11-06": {
+          "activity_ids": [
+            "20888770999"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 937.0
         }
       }
     }
   },
-  "generated_at": "2026-11-06T20:40:46.006740+00:00",
+  "generated_at": "2026-11-07T19:14:19.478202+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
