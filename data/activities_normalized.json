@@ -31016,5 +31016,18 @@
     "start_date_local": "2026-11-12T05:42:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 10218.1,
+    "elevation_gain": 85.0,
+    "id": "20971873030",
+    "moving_time": 2984.0,
+    "name": "2027: Year of the Vinny Mauri Double",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-13T05:27:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
