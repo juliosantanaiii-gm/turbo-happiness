@@ -31055,5 +31055,18 @@
     "start_date_local": "2026-11-15T06:12:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-16",
+    "distance": 9725.3,
+    "elevation_gain": 70.0,
+    "id": "21008854010",
+    "moving_time": 2824.0,
+    "name": "The good old days",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-16T06:01:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
