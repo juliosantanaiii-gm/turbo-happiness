@@ -31068,5 +31068,18 @@
     "start_date_local": "2026-11-16T06:01:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 12904.7,
+    "elevation_gain": 53.0,
+    "id": "21021546400",
+    "moving_time": 3329.0,
+    "name": "Back to work \ud83d\udee0\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-17T05:33:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
