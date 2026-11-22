@@ -21554,6 +21554,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21073106584",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 7,
+      "name": "The People's Republic",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21085525204",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40510,6 +40519,15 @@
           "distance": 14502.3,
           "elevation_gain": 84.0,
           "moving_time": 3854.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21085525204"
+          ],
+          "count": 1,
+          "distance": 20947.2,
+          "elevation_gain": 95.0,
+          "moving_time": 5532.0
         }
       },
       "Walk": {
@@ -40837,7 +40855,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:44:11.664857+00:00",
+  "generated_at": "2026-11-22T20:54:26.912025+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/27259633",
   "repo": "juliosantanaiii-gm/turbo-happiness",
