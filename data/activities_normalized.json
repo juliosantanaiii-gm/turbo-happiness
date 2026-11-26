@@ -31185,5 +31185,18 @@
     "start_date_local": "2026-11-25T05:15:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 11440.4,
+    "elevation_gain": 88.0,
+    "id": "21132417953",
+    "moving_time": 3290.0,
+    "name": "Thanksgiving",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T07:02:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
