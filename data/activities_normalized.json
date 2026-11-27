@@ -31198,5 +31198,18 @@
     "start_date_local": "2026-11-26T07:02:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 12246.5,
+    "elevation_gain": 116.0,
+    "id": "21144412592",
+    "moving_time": 3462.0,
+    "name": "Open Farm Day Tomorrow (Nov 28th)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-27T08:17:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
